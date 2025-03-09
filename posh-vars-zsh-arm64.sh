@@ -1,0 +1,1 @@
+export POSH_EXECUTABLE="/opt/homebrew/bin/oh-my-posh"

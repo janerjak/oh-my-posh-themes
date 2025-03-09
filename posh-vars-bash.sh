@@ -1,0 +1,1 @@
+export POSH_EXECUTABLE="/home/darkn/.local/bin/oh-my-posh"

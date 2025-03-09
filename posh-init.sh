@@ -1,0 +1,1 @@
+eval "$($POSH_EXECUTABLE init $POSH_SHELL_TYPE --config $POSH_THEMES_PATH/$POSH_THEME_NAME.omp.json)"

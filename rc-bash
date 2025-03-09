@@ -1,0 +1,9 @@
+export POSH_BASE_PATH="/home/darkn/.oh-my-posh"
+export POSH_THEMES_PATH="$POSH_BASE_PATH/oh-my-posh-themes"
+export POSH_THEME_NAME="customized/green_powerlevel10k_rainbow"
+
+source "$POSH_THEMES_PATH/posh-vars-bash.sh"
+
+export POSH_SHELL_TYPE="$($POSH_EXECUTABLE get shell)"
+
+source "$POSH_THEMES_PATH/posh-init.sh"
